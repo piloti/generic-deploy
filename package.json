@@ -4,9 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "forever": "^0.15.1",
-    "githubhook": "~1.3.0",
-    "nodemon": "^1.5.1"
+    "githubhook": "~1.3.0"
   },
   "devDependencies": {},
   "scripts": {
